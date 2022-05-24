@@ -11,7 +11,13 @@
       {
         "appID": "N5CTMB8PTT.com.oldmutual.app",
         "paths": [
-          "/apps/ios/money-account"
+          "/apps/ios/missed"
+        ]
+      },
+      {
+        "appID": "N5CTMB8PTT.com.oldmutual.app.ci",
+        "paths": [
+          "/apps/ios/missed-premiums"
         ]
       }
     ]
