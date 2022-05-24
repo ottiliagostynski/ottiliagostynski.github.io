@@ -3,7 +3,13 @@
     "apps": [],
     "details": [
       {
-        "appID": "N5CTMB8PTT.com.oldmutual.app",
+        "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual",
+        "paths": [
+          "/apps"
+        ]
+      },
+      {
+        "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual.ci",
         "paths": [
           "*"
         ]
