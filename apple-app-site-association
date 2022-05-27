@@ -11,7 +11,9 @@
       {
         "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual.ci",
         "paths": [
-          "*"
+          "/apps/iOS/",
+          "/apps/iOS?feature=premArrears",
+          "/apps/iOS?feature=Withdrawals"
         ]
       }
     ]
