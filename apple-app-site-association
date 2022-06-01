@@ -18,6 +18,12 @@
         "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual.ci",
         "paths": [
           "/appstores/*"
+        ],
+        "components": [
+          {
+            "/": "/appstores/*",
+            "comment": "Matches any URL whose path starts with /appstores/"
+          }
         ]
       },
       {
