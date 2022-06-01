@@ -15,33 +15,14 @@
         ]
       },
       {
-        "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual.ci",
+        "appIDs": [
+                 "N5CTMB8PTT.com.oldmutual.myoldmutual.ci", 
+                 "N5CTMB8PTT.com.oldmutual.myoldmutual.dev", 
+                 "N5CTMB8PTT.com.oldmutual.myoldmutual.qa", 
+                 "N5CTMB8PTT.com.oldmutual.myoldmutual"
+         ],
         "paths": [
           "/appstores/*"
-        ],
-        "components": [
-          {
-            "/": "/appstores/*",
-            "comment": "Matches any URL whose path starts with /appstores/"
-          }
-        ]
-      },
-      {
-        "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual.dev",
-        "paths": [
-          "/appstores"
-        ]
-      },
-      {
-        "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual.qa",
-        "paths": [
-          "/appstores"
-        ]
-      },
-      {
-        "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual",
-        "paths": [
-          "/appstores"
         ]
       }
     ]
