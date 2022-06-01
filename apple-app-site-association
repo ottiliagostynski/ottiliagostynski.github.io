@@ -17,7 +17,7 @@
       {
         "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual.ci",
         "paths": [
-          "/appstores"
+          "/appstores/*"
         ]
       },
       {
