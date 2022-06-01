@@ -2,18 +2,40 @@
   "applinks": {
     "apps": [],
     "details": [
-      {
-        "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual",
+       {
+        "appID": "U7HFT6QF4H.com.oldmutual.app.dev",
         "paths": [
-          "/apps"
+          "/apps/ios/money-account"
+        ]
+      },
+      {
+        "appID": "N5CTMB8PTT.com.oldmutual.app",
+        "paths": [
+          "/apps/ios/money-account"
         ]
       },
       {
         "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual.ci",
         "paths": [
-          "/apps/iOS/",
-          "/apps/iOS?feature=premArrears",
-          "/apps/iOS?feature=Withdrawals"
+          "/appstores"
+        ]
+      },
+      {
+        "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual.dev",
+        "paths": [
+          "/appstores"
+        ]
+      },
+      {
+        "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual.qa",
+        "paths": [
+          "/appstores"
+        ]
+      },
+      {
+        "appID": "N5CTMB8PTT.com.oldmutual.myoldmutual",
+        "paths": [
+          "/appstores"
         ]
       }
     ]
